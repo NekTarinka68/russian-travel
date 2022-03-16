@@ -3,3 +3,4 @@
 Выполнен на HTML, CSS.
 При создании затронуто: Grid, Flexbox-вёрстка, Медиазапросы и шрифты.
 Также, структура сайта выполнена по правилам БЭМ.
+Ссылка на GitHub: https://github.com/NekTarinka68/russian-travel
